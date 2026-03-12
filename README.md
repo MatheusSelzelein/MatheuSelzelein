@@ -6,7 +6,7 @@ Profundo entusiasmo por contribuir com um time voltado à criação de soluçõe
 
 
 
-### 🤖 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 <img 
     align="left" 
